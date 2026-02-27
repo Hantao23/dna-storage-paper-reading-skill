@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Reading"
+  short_description: "Structured paper reading and critical analysis workflows"
+  default_prompt: "Read the provided paper and return an evidence-grounded analysis covering contributions, method, experiments, limitations, and a reproduction plan."
